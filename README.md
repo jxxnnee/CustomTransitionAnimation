@@ -16,5 +16,5 @@ Individual, Personal
 
 Swift, Github, Xcode
 
-![Jul-14-2020 15-20-14.gif](https://github.com/jxxnnee/CustomTranstionAnimation/blob/master/images/Jul-14-2020 15-20-14.gif))
+![example.gif](https://github.com/jxxnnee/CustomTranstionAnimation/raw/master/images/example.gif)
 
