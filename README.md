@@ -1,6 +1,6 @@
 # CustomTransitionAnimation
 
-## **Intro**:
+### Intro:
 
 View의 Transition Animation을 Custom 해보는 연습 프로젝트
 
